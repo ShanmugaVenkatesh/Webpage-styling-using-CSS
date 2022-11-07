@@ -1,0 +1,47 @@
+div{
+    background-color: #333;
+    width: 300px;
+    height: 500px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: crimson;
+
+    /*  border: 10px solid crimson;  */
+
+    padding: 20px 100px;
+
+    text-align:justify;
+}
+p{
+    border-style: solid;
+    border-width: 5px;
+
+    padding: 20px;  
+    
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+
+    /* padding: 20px 40px 50px 10px ; */
+
+   /* margin: 30px;   gives 30px space around border in all directions */
+    margin-inline: 150px;
+    margin-block: 40px;
+}
+ul{
+    border: 5px solid crimson;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+
+    padding-inline: 70px;
+    padding-block: 80px;
+
+    margin-inline: 150px;
+    margin-block: 40px;
+}
